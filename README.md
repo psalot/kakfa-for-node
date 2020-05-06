@@ -4,7 +4,7 @@ The purpose of this repository is to produce message from Rest API and consume t
 
 **After you clone the below repositories please follow the below steps**
 
-- Step 1: Change your broker details in kafka-producer.js and kafka-consumer.js
+- Step 1: Change your broker details and topic details in kafka-producer.js and kafka-consumer.js
 - Step 2: Run the command below to install the dependencies
 
 ```
